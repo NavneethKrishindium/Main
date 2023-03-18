@@ -1,0 +1,75 @@
+.x{
+    font-size: 40px;
+    padding: 3px;
+    
+}
+.w{
+    color: white;
+    background-color: rgb(21, 182, 21);
+    
+}
+.y{
+    color: red;
+    text-decoration: none;
+    background-color: white;
+    
+}
+.y:hover{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    
+}
+.i{
+    text-decoration: none;
+    color: rgb(212, 49, 158);
+    background-color: white;
+}
+.i:hover{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(212,49,158,1));
+}
+.t{
+    text-decoration: none;
+    color: rgb(61, 167, 209);
+    background-color: white;
+}
+.t:hover{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(61,167,209,1));
+}
+
+.f{
+    text-decoration: none;
+    color: rgb(61, 88, 209);
+    background-color: white;
+}
+.f:hover{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(61,88,209,1));
+}
+.l{
+    text-decoration: none;
+    color:rgb(43, 150, 221); ;
+    background-color: white;
+}
+.l:hover{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(43,150,211,1));
+}
+.s{
+    color: white;
+    background-color: yellow;
+    border-radius: 50%;
+}
+.g{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    /* background-color: */
+
+    
+}
+.g:hover{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(0,0,0,1));
+}
+div{
+    text-align: center;
+}
+body{
+    background: url("img5.jpg");
+}
